@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/.gitattributes
+!/build.json
+!/plugin-source/
+!/plugin-source/**
+!/Human\ Super\ Mutant\ Armors\ -\ LFO\ -\ SMR.manifest.json
