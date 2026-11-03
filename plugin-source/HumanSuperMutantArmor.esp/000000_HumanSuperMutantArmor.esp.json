@@ -1,0 +1,15 @@
+{
+  "ModKey": "HumanSuperMutantArmor.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 3907
+    },
+    "Author": "DEFAULT",
+    "INTV": "0x01000000",
+    "INCC": 0
+  }
+}

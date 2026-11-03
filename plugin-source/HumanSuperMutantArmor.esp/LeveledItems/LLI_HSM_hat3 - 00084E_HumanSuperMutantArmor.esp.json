@@ -1,0 +1,14 @@
+{
+  "FormKey": "00084E:HumanSuperMutantArmor.esp",
+  "VersionControl": 11612,
+  "EditorID": "LLI_HSM_hat3",
+  "MaxCount": 0,
+  "Global": "000850:HumanSuperMutantArmor.esp",
+  "Entries": [
+    {
+      "Data": {
+        "Reference": "00082B:HumanSuperMutantArmor.esp"
+      }
+    }
+  ]
+}

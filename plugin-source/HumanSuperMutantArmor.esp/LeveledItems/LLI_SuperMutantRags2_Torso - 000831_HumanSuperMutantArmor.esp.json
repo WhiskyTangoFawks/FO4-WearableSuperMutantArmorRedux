@@ -1,0 +1,25 @@
+{
+  "FormKey": "000831:HumanSuperMutantArmor.esp",
+  "VersionControl": 11612,
+  "EditorID": "LLI_SuperMutantRags2_Torso",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000843:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "1B3A1F:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ]
+}

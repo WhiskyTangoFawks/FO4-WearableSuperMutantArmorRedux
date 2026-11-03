@@ -1,0 +1,41 @@
+{
+  "FormKey": "1B3A25:Fallout4.esm",
+  "VersionControl": 11612,
+  "EditorID": "CreatureOutfit_Supermutant_Hats",
+  "ChanceNone": 0.6,
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateFromAllLevelsLessThanOrEqualPlayer",
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "00083A:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "00083B:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "00083C:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "00083D:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    }
+  ]
+}

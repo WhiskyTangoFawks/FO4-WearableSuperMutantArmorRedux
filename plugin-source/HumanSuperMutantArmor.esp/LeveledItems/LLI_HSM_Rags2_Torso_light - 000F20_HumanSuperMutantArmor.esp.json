@@ -1,0 +1,20 @@
+{
+  "FormKey": "000F20:HumanSuperMutantArmor.esp",
+  "EditorID": "LLI_HSM_Rags2_Torso_light",
+  "MaxCount": 0,
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "00081C:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    }
+  ],
+  "FilterKeywordChances": [
+    {
+      "FilterKeyword": "182E78:Fallout4.esm",
+      "Chance": 2.3283064370807974E-08
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "FormKey": "000841:HumanSuperMutantArmor.esp",
+  "VersionControl": 11612,
+  "EditorID": "LLI_HSM_Armor3_Torso",
+  "MaxCount": 0,
+  "Global": "000850:HumanSuperMutantArmor.esp",
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000F1E:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 30,
+        "Reference": "000F2B:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 60,
+        "Reference": "000F38:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    }
+  ]
+}

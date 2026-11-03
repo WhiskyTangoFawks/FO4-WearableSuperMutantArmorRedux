@@ -1,0 +1,61 @@
+{
+  "FormKey": "00082B:HumanSuperMutantArmor.esp",
+  "VersionControl": 10105,
+  "EditorID": "00HumanSMHat3",
+  "ObjectBounds": {
+    "First": "-9, -8, 0",
+    "Second": "9, 10, 18"
+  },
+  "PreviewTransform": "186DD6:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Super Mutant Aviator Cap"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "Actors\\Supermutant\\CharacterAssets\\SMHat3GO.nif",
+        "Data": "0x0400000000000000000000000000000000000000"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "HairTop",
+      "HairLong",
+      "Headband"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Keywords": [
+    "10C418:Fallout4.esm",
+    "237E58:Fallout4.esm",
+    "07820B:Fallout4.esm",
+    "0F4AE9:Fallout4.esm",
+    "23D317:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "InstanceNaming": "184BC1:Fallout4.esm",
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "000814:HumanSuperMutantArmor.esp"
+    }
+  ],
+  "Value": 25,
+  "Weight": 4.0,
+  "ArmorRating": 8,
+  "Unused": "0x000000",
+  "Resistances": [
+    {
+      "DamageType": "060A81:Fallout4.esm",
+      "Value": 16
+    }
+  ],
+  "AttachParentSlots": [
+    "1E32C8:Fallout4.esm"
+  ]
+}

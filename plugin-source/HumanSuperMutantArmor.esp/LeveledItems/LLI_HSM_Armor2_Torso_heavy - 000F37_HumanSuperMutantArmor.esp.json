@@ -1,0 +1,20 @@
+{
+  "FormKey": "000F37:HumanSuperMutantArmor.esp",
+  "EditorID": "LLI_HSM_Armor2_Torso_heavy",
+  "MaxCount": 0,
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "00081B:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    }
+  ],
+  "FilterKeywordChances": [
+    {
+      "FilterKeyword": "182E7A:Fallout4.esm",
+      "Chance": 2.3283064370807974E-08
+    }
+  ]
+}

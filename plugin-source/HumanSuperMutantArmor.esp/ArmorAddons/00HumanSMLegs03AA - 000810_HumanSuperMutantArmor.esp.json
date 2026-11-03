@@ -1,0 +1,35 @@
+{
+  "FormKey": "000810:HumanSuperMutantArmor.esp",
+  "VersionControl": 10104,
+  "EditorID": "00HumanSMLegs03AA",
+  "BodyTemplate": {
+    "FirstPersonFlags": [
+      "LeftLegArmor",
+      "RightLegArmor"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Priority": {
+    "Male": 0,
+    "Female": 0
+  },
+  "WeightSliderEnabled": {
+    "Male": false,
+    "Female": false
+  },
+  "WorldModel": {
+    "Male": {
+      "File": "borjoyzee\\ArmorBits\\SMutant4LowerHuman.nif",
+      "Data": "0x0400000000000000000000000000000000000000"
+    },
+    "Female": {
+      "File": "borjoyzee\\ArmorBits\\SMutant4LowerHumanF.nif",
+      "Data": "0x0400000000000000000000000000000000000000"
+    }
+  },
+  "AdditionalRaces": [
+    "0EAFB6:Fallout4.esm",
+    "0E8D09:Fallout4.esm"
+  ],
+  "BoneData": {}
+}

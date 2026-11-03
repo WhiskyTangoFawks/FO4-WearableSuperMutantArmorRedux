@@ -1,0 +1,8 @@
+*
+!/.gitignore
+!/.gitattributes
+!/build.json
+!/plugin-source/
+!/plugin-source/**
+!/Wearable\ Super\ Mutant\ Armor\ Redux.manifest.json
+/HumanSuperMutantArmor\ -\ Main.ba2

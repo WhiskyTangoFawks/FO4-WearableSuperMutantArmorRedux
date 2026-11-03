@@ -1,0 +1,27 @@
+{
+  "FormKey": "000F41:HumanSuperMutantArmor.esp",
+  "EditorID": "LLI_HSM_Rags2_Arms_heavy",
+  "MaxCount": 0,
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000820:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000824:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    }
+  ],
+  "FilterKeywordChances": [
+    {
+      "FilterKeyword": "182E7A:Fallout4.esm",
+      "Chance": 2.3283064370807974E-08
+    }
+  ]
+}

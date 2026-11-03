@@ -1,0 +1,241 @@
+{
+  "FormKey": "000827:HumanSuperMutantArmor.esp",
+  "VersionControl": 10105,
+  "EditorID": "00HumanSMRags1_lower",
+  "ObjectBounds": {
+    "First": "-25, -28, -1",
+    "Second": "23, 28, 37"
+  },
+  "PreviewTransform": "186DD8:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Super Mutant Waistcloth"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "Actors\\Supermutant\\CharacterAssets\\SMRags1_LowerGO.nif",
+        "Data": "0x0400000000000000000000000000000000000000"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "LeftLegArmor",
+      "RightLegArmor"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Keywords": [
+    "237E57:Fallout4.esm",
+    "07820B:Fallout4.esm",
+    "0F4AE9:Fallout4.esm",
+    "23D317:Fallout4.esm",
+    "07FACA:Fallout4.esm",
+    "06C0ED:Fallout4.esm",
+    "081B0E:Fallout4.esm",
+    "18E578:Fallout4.esm",
+    "081B73:Fallout4.esm",
+    "1F1C30:Fallout4.esm",
+    "15E02C:Fallout4.esm",
+    "1833A5:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "InstanceNaming": "184BC1:Fallout4.esm",
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "000810:HumanSuperMutantArmor.esp"
+    }
+  ],
+  "Value": 30,
+  "Weight": 10.0,
+  "ArmorRating": 10,
+  "Unused": "0x000000",
+  "Resistances": [
+    {
+      "DamageType": "060A81:Fallout4.esm",
+      "Value": 6
+    }
+  ],
+  "AttachParentSlots": [
+    "0536C6:Fallout4.esm",
+    "022821:Fallout4.esm",
+    "1E32C8:Fallout4.esm",
+    "182E5A:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Default"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "182E5C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0802A8:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "18E59C:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Light"
+      },
+      "Keywords": [
+        "182E78:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "182E5C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0802A8:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "18E59C:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Light Epic"
+      },
+      "AddonIndex": 1,
+      "Keywords": [
+        "05F42D:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "182E5C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "182E7C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "18E57A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Medium"
+      },
+      "Keywords": [
+        "182E79:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "182E6B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0802A8:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "18E59C:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Medium Epic"
+      },
+      "AddonIndex": 3,
+      "Keywords": [
+        "05F42D:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "182E6B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "18402B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "18E57A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Heavy"
+      },
+      "Keywords": [
+        "182E7A:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "182E6E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0802A8:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "18E59C:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Heavy Epic"
+      },
+      "AddonIndex": 5,
+      "Keywords": [
+        "05F42D:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "182E6E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "18402C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "18E57A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ]
+}
