@@ -1,4 +1,4 @@
 {"version":1,"steps":[
 {"copy":["HumanSuperMutantArmor - Main.ba2"]},
-{"compile":["HumanSuperMutantArmor.esp"]}
+{"compile":["HumanSuperMutantArmor.esp","Lunar - SMR - HSMArmor.esp"]}
 ]}

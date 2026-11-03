@@ -1,0 +1,13 @@
+{
+  "ModKey": "Lunar - SMR - HSMArmor.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 1
+    },
+    "Author": ""
+  }
+}

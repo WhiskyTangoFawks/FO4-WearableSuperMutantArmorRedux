@@ -1,0 +1,39 @@
+{
+  "FormKey": "1B3A20:Fallout4.esm",
+  "EditorID": "CreatureOutfit_Supermutant_Lower",
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateFromAllLevelsLessThanOrEqualPlayer",
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000839:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 10,
+        "Reference": "0008E7:SuperMutantRedux.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 15,
+        "Reference": "000833:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 25,
+        "Reference": "000834:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "FormKey": "1B3A22:Fallout4.esm",
+  "EditorID": "CreatureOutfit_Supermutant_Arms",
+  "ChanceNone": 0.2,
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateFromAllLevelsLessThanOrEqualPlayer",
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000837:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000838:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 15,
+        "Reference": "000836:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 25,
+        "Reference": "000835:HumanSuperMutantArmor.esp",
+        "Count": 1
+      }
+    }
+  ]
+}
