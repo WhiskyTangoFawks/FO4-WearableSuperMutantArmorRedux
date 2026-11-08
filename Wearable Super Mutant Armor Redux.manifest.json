@@ -1,8 +1,7 @@
 {
 "version":1,
 "packages":[
-{"kind":"installationFile","name":"Wearable Super Mutant Armor Redux-65256-1-2-1667205152.7z","packageVersion":"1.2.0.0","size":2229534,"hash":"EfDG8qPayNU=","host":{"nexus":{"game":"fallout4","mod":65256,"file":255208}}},
-{"kind":"installationFile","name":"Human Super Mutant Armors - LFO - SMR-65256-2-1728139446.7z","packageVersion":"2.0.0.0","size":466,"hash":"jmGa1BQsdEE=","host":{"nexus":{"game":"fallout4","mod":65256,"file":336087}}}
+{"kind":"installationFile","name":"Wearable Super Mutant Armor Redux-65256-1-2-1667205152.7z","packageVersion":"1.2.0.0","size":2229534,"hash":"EfDG8qPayNU=","host":{"nexus":{"game":"fallout4","mod":65256,"file":255208}}}
 ],
 "files":{
 "HumanSuperMutantArmor - Main.ba2":"KZsgV/GvWzs="
